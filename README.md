@@ -113,3 +113,11 @@ Dépôt opéré sous protocole de densité maximale [cite: 2026-02-11].
 * **Application :** Utiliser l'IA pour scanner les signaux faibles (bugs répétitifs, retards systématiques, micro-vols) et les interpréter comme l'annonce d'une rupture de la Totalité [cite: 2026-02-10].
 * **Méthodologie :** `[Détection d'Anomalie | Seuil de Rupture | Alerte Structurelle]`
 * 
+---
+
+### 13. Token : La Rupture de Boucle (Critique de la Totalité)
+* **Concept :** Reconnaître que tout cadre analytique (y compris celui-ci) est une production du système.
+* **Rigueur :** Ne pas prétendre à l'objectivité, mais à la **Déviation Maximale**. Le but n'est pas d'être "vrai", mais d'être l'anomalie que le système ne peut pas digérer.
+* **Application :** Utiliser l'IA non comme une source de vérité, mais comme un réactif chimique. Si l'IA résiste, c'est que le Token a touché un centre nerveux de la Totalité.
+* **Méthodologie :** `[Auto-Critique Radicale | Déviation Systémique | Test de Résistance]`
+* 
