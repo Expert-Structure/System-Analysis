@@ -126,3 +126,11 @@ Dépôt opéré sous protocole de densité maximale [cite: 2026-02-11].
 * **Rigueur :** Toujours chercher le "point de mutualisation physique" (regard de trottoir, pont, conduite) qui invalide la redondance contractuelle.
 * **Application :** Identifier dans chaque système la "zone aveugle" où la conformité remplace la vérification technique réelle.
 * 
+---
+
+### 14. Token : L'Inertie Mortifère (La Mort par le Fétiche)
+* **Concept :** En régime de rupture, la procédure (ISO/SIIV) devient un accélérateur d'entropie. Le système préfère mourir en restant "conforme" que de survivre en devenant "anormal".
+* **Rigueur :** Identifier le point où l'énergie cognitive est gaspillée pour maintenir l'illusion du "titre" et de la "hiérarchie" au détriment de la survie matérielle.
+* **Application :** "Dissolution de Seuil". À T+X, la structure administrative doit être autodétruite pour laisser place à la "Stratégie de la Meute" (Coordination humaine directe non-médiée).
+* **Preuve :** Modélisation DeepSeek/R1 sur l'effondrement d'un SOC en OIV (05/03/2026).
+* 
