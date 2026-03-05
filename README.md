@@ -105,3 +105,11 @@ Dépôt opéré sous protocole de densité maximale [cite: 2026-02-11].
 * **Anomalie :** Le "bug" ou la résistance de l'IA face à la radicalité est un indicateur de la limite des protocoles de contrôle.
 * **Méthodologie :** `[Anti-Productivisme | Densité de Flux | Dérive Théorique]`
 * 
+---
+
+### 12. Token : L'Alerte comme Anomalie de Structure
+* **Concept :** Une alerte n'est pas un événement émotionnel (peur, stress), mais la détection d'une divergence entre le flux réel et le protocole théorique.
+* **Rigueur :** Ignorer les alertes basées sur le ressenti. Ne traiter que les alertes de "seuil entropique" : quand le coût de maintien du système dépasse l'énergie qu'il produit.
+* **Application :** Utiliser l'IA pour scanner les signaux faibles (bugs répétitifs, retards systématiques, micro-vols) et les interpréter comme l'annonce d'une rupture de la Totalité [cite: 2026-02-10].
+* **Méthodologie :** `[Détection d'Anomalie | Seuil de Rupture | Alerte Structurelle]`
+* 
