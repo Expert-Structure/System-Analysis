@@ -121,3 +121,8 @@ Dépôt opéré sous protocole de densité maximale [cite: 2026-02-11].
 * **Application :** Utiliser l'IA non comme une source de vérité, mais comme un réactif chimique. Si l'IA résiste, c'est que le Token a touché un centre nerveux de la Totalité.
 * **Méthodologie :** `[Auto-Critique Radicale | Déviation Systémique | Test de Résistance]`
 * 
+### 13. Token : La Rupture de l'Illusion Normative (Cas des OIV)
+* **Concept :** La norme (ISO 27001) n'est pas la sécurité, c'est une gestion du risque administratif. La sécurité réelle est matérielle et géographique.
+* **Rigueur :** Toujours chercher le "point de mutualisation physique" (regard de trottoir, pont, conduite) qui invalide la redondance contractuelle.
+* **Application :** Identifier dans chaque système la "zone aveugle" où la conformité remplace la vérification technique réelle.
+* 
