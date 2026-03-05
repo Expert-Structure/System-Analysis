@@ -10,3 +10,5 @@ Rigueur structurelle : La redondance n'est pas une option de confort, mais une n
 Anomalie détectée : La plupart des audits ignorent la matérialité des câbles et de l'énergie. Un expert doit valider la séparation physique réelle des flux.
 
 Méthodologie : [DAS InfoSec | Analyse de la Totalité | Rigueur Matérialiste]
+
+[Token de Rupture | Critique de la Valeur | Matérialisme Radical]
