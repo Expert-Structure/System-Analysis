@@ -47,3 +47,36 @@ Méthodologie : [DAS InfoSec | Analyse de la Totalité | Rigueur Matérialiste]
 
 ---
 Dépôt opéré sous protocole de densité maximale [cite: 2026-02-11].
+
+---
+
+### 5. Token : La Communisation comme Outil Théorique
+* **Concept :** La communisation n'est pas un projet politique ou une utopie, c'est le mouvement réel de destruction de la forme-marchandise et de la valeur.
+* **Rigueur :** Analyser un système sous l'angle de la communisation signifie identifier les points où le rapport social peut s'effondrer pour laisser place à l'activité humaine directe, sans médiation monétaire ou étatique.
+* **Anomalie :** Toute réforme qui maintient l'échange de valeur est une simple réorganisation du capital.
+* **Méthodologie :** `[Communisation | Sortie de la Valeur | Rupture Structurelle]`
+
+---
+
+### 6. Token : Rejet de la Morale (Neutralité Axio-Matérielle)
+* **Concept :** La morale est une superstructure idéologique destinée à stabiliser le rapport social capitaliste.
+* **Rigueur :** L'analyse théorique doit être "amoraliste". Elle ne juge pas ce qui est "bien" ou "mal", elle mesure ce qui est **efficace**, **matériel** et **irréversible** [cite: 2025-12-27].
+* **Application :** Éliminer systématiquement les adjectifs qualificatifs moraux pour ne garder que les verbes d'action et les mesures de flux.
+* **Méthodologie :** `[Amoralisme | Rigueur Matérialiste | Froid Théorique]`
+
+---
+
+### 7. Token : Entropie des Systèmes Sociaux
+* **Concept :** Tout système fermé (institution, entreprise, État) tend vers un désordre maximal et une perte d'énergie informationnelle.
+* **Rigueur :** Identifier les zones d'entropie où le contrôle ne produit plus de sécurité, mais seulement de la bureaucratie vide.
+* **Objectif :** Anticiper l'effondrement par l'analyse de la dégradation des structures physiques et logiques.
+* **Méthodologie :** `[Entropie | Dégradation Systémique | Analyse Thermodynamique du Social]`
+
+---
+
+### 8. Token : Analyse du Rapport Social (La Totalité)
+* **Concept :** Le rapport social n'est pas une relation entre individus, mais une médiation par les choses (objets, argent, titres).
+* **Rigueur :** Ne jamais analyser un individu isolément, mais toujours comme le support d'une fonction dans la **Totalité** du mode de production [cite: 2026-02-10].
+* **Constat :** La sécurité d'un site dépend plus de la stabilité du rapport social de ses occupants que du verrouillage de ses portes.
+* **Méthodologie :** `[Rapport Social | Réification | Analyse de la Totalité]`
+* 
